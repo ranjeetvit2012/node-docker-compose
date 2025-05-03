@@ -35,5 +35,7 @@ cd your-repo-name
 
 ### Run the App with Docker Compose
 
+docker-compose up
+
 
 
